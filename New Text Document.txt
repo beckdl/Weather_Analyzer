@@ -1,3 +1,0 @@
-https://pandas.pydata.org/docs/user_guide/10min.html#min
-https://www.kaggle.com/datasets/prasad22/weather-data?resource=download
-getting started to data analysis with python pandas with titanic dataset
